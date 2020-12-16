@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.cacfbcf0.chunk.css",
-    "main.js": "/static/js/main.e617744c.chunk.js",
-    "main.js.map": "/static/js/main.e617744c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.01688af1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.01688af1.js.map",
-    "static/js/2.32fabc13.chunk.js": "/static/js/2.32fabc13.chunk.js",
-    "static/js/2.32fabc13.chunk.js.map": "/static/js/2.32fabc13.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3e52fc2ba36e38d5a3f2b57ba54249aa.js": "/precache-manifest.3e52fc2ba36e38d5a3f2b57ba54249aa.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.cacfbcf0.chunk.css.map": "/static/css/main.cacfbcf0.chunk.css.map",
-    "static/js/2.32fabc13.chunk.js.LICENSE.txt": "/static/js/2.32fabc13.chunk.js.LICENSE.txt"
+    "main.css": "/johnbrosas.github.io/static/css/main.cacfbcf0.chunk.css",
+    "main.js": "/johnbrosas.github.io/static/js/main.e617744c.chunk.js",
+    "main.js.map": "/johnbrosas.github.io/static/js/main.e617744c.chunk.js.map",
+    "runtime-main.js": "/johnbrosas.github.io/static/js/runtime-main.deded663.js",
+    "runtime-main.js.map": "/johnbrosas.github.io/static/js/runtime-main.deded663.js.map",
+    "static/js/2.32fabc13.chunk.js": "/johnbrosas.github.io/static/js/2.32fabc13.chunk.js",
+    "static/js/2.32fabc13.chunk.js.map": "/johnbrosas.github.io/static/js/2.32fabc13.chunk.js.map",
+    "index.html": "/johnbrosas.github.io/index.html",
+    "precache-manifest.7f2582bc805a21cafb5ad3ab79621fd0.js": "/johnbrosas.github.io/precache-manifest.7f2582bc805a21cafb5ad3ab79621fd0.js",
+    "service-worker.js": "/johnbrosas.github.io/service-worker.js",
+    "static/css/main.cacfbcf0.chunk.css.map": "/johnbrosas.github.io/static/css/main.cacfbcf0.chunk.css.map",
+    "static/js/2.32fabc13.chunk.js.LICENSE.txt": "/johnbrosas.github.io/static/js/2.32fabc13.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.01688af1.js",
+    "static/js/runtime-main.deded663.js",
     "static/js/2.32fabc13.chunk.js",
     "static/css/main.cacfbcf0.chunk.css",
     "static/js/main.e617744c.chunk.js"
