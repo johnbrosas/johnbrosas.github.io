@@ -1,0 +1,19 @@
+nav {
+    padding: 12px 0px;
+    
+    .nav__ul {
+        text-decoration: none;
+        @include makeGrid(center, center);
+
+        .nav__list {
+            list-style-type: none;
+            text-align: center;
+            margin: 0 10px;
+            
+            &:hover {
+                color: #1ed461;
+                border-bottom: 1px solid #1ed461;
+            }
+        }
+    }
+}

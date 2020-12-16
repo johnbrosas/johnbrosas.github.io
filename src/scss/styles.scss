@@ -1,0 +1,62 @@
+@import '_variables.scss';
+@import '_mixins.scss';
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-weight: 300;
+}
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background: #120E14;
+    color: #07903A;
+}
+
+.main__container {
+    @include makeGrid(center, center);
+    padding: 50px;
+    flex-direction: column;
+
+    .horizontal-bar {
+        background: #07903A;
+        width: 5px;
+        height: 100%;
+    }
+    .blink_me {
+        animation: blinker 1s linear infinite;
+    }
+      
+      @keyframes blinker {
+        50% {
+          opacity: 0;
+        }
+    }
+    .name {
+        font-size: 1.5rem;
+    }
+    .white-text {
+        color: #cecece;
+    }
+    .blue-text {
+        color: #7389ee;
+    }
+    .green-text {
+        color: #07903A;
+        &:hover {
+            color: #1ed461;
+            border-bottom: 1px solid #1ed461;
+        }
+    }
+    .link-text {
+        text-decoration: none;
+    }
+
+}
+pre {
+    display: block;
+}
+.fig {
+    white-space: pre;
+    margin-bottom: 15px;
+}
