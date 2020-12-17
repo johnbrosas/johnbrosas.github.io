@@ -7,10 +7,14 @@
     box-sizing: border-box;
     font-weight: 300;
 }
+html {
+    scroll-behavior: smooth;
+}
 body {
     font-family: 'Titillium Web', sans-serif;
     background: #120E14;
     color: #07903A;
+    
 }
 
 .main__container {
@@ -59,4 +63,18 @@ pre {
 .fig {
     white-space: pre;
     margin-bottom: 15px;
+}
+.container {
+    height: 100vh;
+}
+.about__description {
+    white-space: pre;
+    text-align: center;
+}
+.about__wrapper {
+    @include makeGrid(center, center);
+    flex-direction: column;
+}
+.section {
+    height: 50vh;
 }

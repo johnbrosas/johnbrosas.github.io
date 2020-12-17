@@ -1,4 +1,5 @@
 import React from 'react'
+import About from '../pages/About'
 
 // eslint-disable-next-line 
 const inputValue = 
@@ -12,12 +13,13 @@ const inputValue =
 // eslint-disable-next-line 
 export default function Main() {
     return (
-        <div className='main__container'>
+        <>
+        <div className='main__container container'>
             <div>
                 <h1>root@127.0.0.1:~/$ whoami <span className='blink_me horizontal-bar'>|</span></h1>
             </div>
             <pre className='fig'>{inputValue}</pre>
-            <div className='name'>root@127.0.0.1:~/home/admin:$ ls -la <span className='blink_me horizontal-bar'>|</span></div>                                                                         
+            <div className='name'>root@127.0.0.1:~/home/admin:$ ls -la </div>                                                                         
             <div style={{display: 'flex', justifyContent: 'space-between', width: '25%', marginTop: '15px'}}>
                 <div>
                     
@@ -55,9 +57,11 @@ export default function Main() {
                     <p className='white-text'>-n/a-</p>
                     <p className='white-text'>-n/a-</p>
                 </div>
-            </div>
-            
-            
+            </div>  
         </div>
+        <div className='section' id='about'>
+            <About />
+        </div>
+        </>
     )
 }

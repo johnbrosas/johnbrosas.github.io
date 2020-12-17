@@ -5,11 +5,11 @@ export default function Header() {
         <>
             <nav>
                 <ul className='nav__ul'>
-                    <li className='nav__list'>/home</li>
-                    <li className='nav__list'>/about</li>
-                    <li className='nav__list'>/web</li>
-                    <li className='nav__list'>/blog</li>
-                    <li className='nav__list'>/resume</li>
+                    <li><a href="#about" className='nav__list'>/home</a></li>
+                    <li><a href="#about" className='nav__list'>/about</a></li>
+                    <li><a href="#about" className='nav__list'>/web</a></li>
+                    <li><a href="#about" className='nav__list'>/blog</a></li>
+                    <li><a href="#about" className='nav__list'>/resume</a></li>
                 </ul>
             </nav>
         </>
