@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/johnbrosas.github.io/static/css/main.cacfbcf0.chunk.css",
-    "main.js": "/johnbrosas.github.io/static/js/main.e617744c.chunk.js",
-    "main.js.map": "/johnbrosas.github.io/static/js/main.e617744c.chunk.js.map",
+    "main.css": "/johnbrosas.github.io/static/css/main.42d38a97.chunk.css",
+    "main.js": "/johnbrosas.github.io/static/js/main.e2d55af1.chunk.js",
+    "main.js.map": "/johnbrosas.github.io/static/js/main.e2d55af1.chunk.js.map",
     "runtime-main.js": "/johnbrosas.github.io/static/js/runtime-main.deded663.js",
     "runtime-main.js.map": "/johnbrosas.github.io/static/js/runtime-main.deded663.js.map",
     "static/js/2.32fabc13.chunk.js": "/johnbrosas.github.io/static/js/2.32fabc13.chunk.js",
     "static/js/2.32fabc13.chunk.js.map": "/johnbrosas.github.io/static/js/2.32fabc13.chunk.js.map",
     "index.html": "/johnbrosas.github.io/index.html",
-    "precache-manifest.7f2582bc805a21cafb5ad3ab79621fd0.js": "/johnbrosas.github.io/precache-manifest.7f2582bc805a21cafb5ad3ab79621fd0.js",
+    "precache-manifest.b017496973540e7e654fce762380bda5.js": "/johnbrosas.github.io/precache-manifest.b017496973540e7e654fce762380bda5.js",
     "service-worker.js": "/johnbrosas.github.io/service-worker.js",
-    "static/css/main.cacfbcf0.chunk.css.map": "/johnbrosas.github.io/static/css/main.cacfbcf0.chunk.css.map",
+    "static/css/main.42d38a97.chunk.css.map": "/johnbrosas.github.io/static/css/main.42d38a97.chunk.css.map",
     "static/js/2.32fabc13.chunk.js.LICENSE.txt": "/johnbrosas.github.io/static/js/2.32fabc13.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.deded663.js",
     "static/js/2.32fabc13.chunk.js",
-    "static/css/main.cacfbcf0.chunk.css",
-    "static/js/main.e617744c.chunk.js"
+    "static/css/main.42d38a97.chunk.css",
+    "static/js/main.e2d55af1.chunk.js"
   ]
 }

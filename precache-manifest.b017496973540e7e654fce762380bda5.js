@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a48317146200c63a1330919bdb3a63f",
+    "revision": "acd8ef5aebdc2d2f9d53b052eaa0fd7d",
     "url": "/johnbrosas.github.io/index.html"
   },
   {
-    "revision": "c706d86a303ca4a3d23a",
-    "url": "/johnbrosas.github.io/static/css/main.cacfbcf0.chunk.css"
+    "revision": "0336d42d6c63697d747e",
+    "url": "/johnbrosas.github.io/static/css/main.42d38a97.chunk.css"
   },
   {
     "revision": "8f374e887289b4d0d83e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/johnbrosas.github.io/static/js/2.32fabc13.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c706d86a303ca4a3d23a",
-    "url": "/johnbrosas.github.io/static/js/main.e617744c.chunk.js"
+    "revision": "0336d42d6c63697d747e",
+    "url": "/johnbrosas.github.io/static/js/main.e2d55af1.chunk.js"
   },
   {
     "revision": "c371d73b4c0cd6af7745",
