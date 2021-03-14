@@ -18,7 +18,7 @@ export default function Main() {
             <div>
                 <h1>root@127.0.0.1:~/$ whoami <span className='blink_me horizontal-bar'>|</span></h1>
             </div>
-            <pre className='fig'>{inputValue}</pre>
+            <img src="/name.png" />
             <div className='name'>root@127.0.0.1:~/home/admin:$ ls -la </div>                                                                         
             <div style={{display: 'flex', justifyContent: 'space-between', width: '25%', marginTop: '15px'}}>
                 <div>
